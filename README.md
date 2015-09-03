@@ -23,6 +23,21 @@ This will improve the understanding the features and functions, and limitations 
 * big data and data analytic [Apache Spark][7], [Zeppelin][8] and [Hortonworks] or [Cloudera]
 * … TBD
 
+## Construction
+
+### Platforms support containers
+
+#### Bare metal
+##### RPi2  
+* copy Snappy image to RPi2
+
+
+### Resource orchestrator  
+#### Mesos   
+
+
+
+
 [Reference]:
 
 [0]:https://github.com/rkuo/HomeImprovement
